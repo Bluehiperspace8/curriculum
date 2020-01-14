@@ -2866,6 +2866,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [rfb0’s Solution (Easy)](https://github.com/rfb0/google-homepage) - [View in Browser](https://rfb0.github.io/google-homepage/)
 * [gregory-mc’s Solution (Easy)](https://https://github.com/gregory-mc/gregory-mc.github.io/tree/master/buscador-interfaz) - [View in Browser](https://gregory-mc.github.io/buscador-interfaz/)
 * [UlisesVil Solution (Easy)](https://github.com/UlisesVil/google-homepage) - [View in Browser](https://ulisesvil.github.io/google-homepage/)
+* [Bluehiperspace8's Solution (Difficult)](https://github.com/Bluehiperspace8/google-search-results) - [View in Browser](https://bluehiperspace8.github.io/google-search-results/)
 </details>
 
 ### Additional Resources
